@@ -5,8 +5,8 @@
     "price": 150,
     "category": "Development",
     "rating": 4.8,
-    "image": "https://via.placeholder.com/400",
-    "description": "Professional responsive website using modern tech."
+    "image": "/src/assets/services/web-dev.jpg",
+    "description": "Professional responsive website using React and modern web technologies."
   },
   {
     "id": 2,
@@ -14,7 +14,43 @@
     "price": 80,
     "category": "Design",
     "rating": 4.6,
-    "image": "https://via.placeholder.com/400",
-    "description": "Creative designs for your brand."
+    "image": "/src/assets/services/graphic-design.jpg",
+    "description": "Creative logo, banner, and social media designs for your brand."
+  },
+  {
+    "id": 3,
+    "title": "SEO Optimization",
+    "price": 120,
+    "category": "Marketing",
+    "rating": 4.7,
+    "image": "/src/assets/services/seo.jpg",
+    "description": "Improve website ranking with on-page and technical SEO optimization."
+  },
+  {
+    "id": 4,
+    "title": "Video Editing",
+    "price": 100,
+    "category": "Media",
+    "rating": 4.5,
+    "image": "/src/assets/services/video-editing.jpg",
+    "description": "Professional video editing for YouTube, ads, and social media."
+  },
+  {
+    "id": 5,
+    "title": "Mobile App Development",
+    "price": 200,
+    "category": "Development",
+    "rating": 4.9,
+    "image": "/src/assets/services/app-dev.jpg",
+    "description": "Cross-platform mobile app development using React Native."
+  },
+  {
+    "id": 6,
+    "title": "Content Writing",
+    "price": 60,
+    "category": "Writing",
+    "rating": 4.4,
+    "image": "/src/assets/services/content-writing.jpg",
+    "description": "SEO-friendly blog posts, website content, and product descriptions."
   }
 ]
