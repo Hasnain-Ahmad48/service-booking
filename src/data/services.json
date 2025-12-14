@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Website Development",
+    "price": 150,
+    "category": "Development",
+    "rating": 4.8,
+    "image": "https://via.placeholder.com/400",
+    "description": "Professional responsive website using modern tech."
+  },
+  {
+    "id": 2,
+    "title": "Graphic Design",
+    "price": 80,
+    "category": "Design",
+    "rating": 4.6,
+    "image": "https://via.placeholder.com/400",
+    "description": "Creative designs for your brand."
+  }
+]
