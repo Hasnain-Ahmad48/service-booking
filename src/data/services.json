@@ -5,7 +5,7 @@
     "price": 150,
     "category": "Development",
     "rating": 4.8,
-    "image": "/assets/web-dev.jpg",
+    "image": "/service-booking/assets/web-dev.jpg",
     "description": "Professional responsive website using React and modern web technologies."
   },
   {
@@ -14,7 +14,7 @@
     "price": 80,
     "category": "Design",
     "rating": 4.6,
-    "image": "/assets/graphic-design.jpg",
+    "image": "/service-booking/assets/graphic-design.jpg",
     "description": "Creative logo, banner, and social media designs for your brand."
   },
   {
@@ -23,7 +23,7 @@
     "price": 120,
     "category": "Marketing",
     "rating": 4.7,
-    "image": "assets/seo.jpg",
+    "image": "/service-bookingassets/seo.jpg",
     "description": "Improve website ranking with on-page and technical SEO optimization."
   },
   {
@@ -32,7 +32,7 @@
     "price": 100,
     "category": "Media",
     "rating": 4.5,
-    "image": "/assets/video-editing.jpg",
+    "image": "/service-booking/assets/video-editing.jpg",
     "description": "Professional video editing for YouTube, ads, and social media."
   },
   {
@@ -41,7 +41,7 @@
     "price": 200,
     "category": "Development",
     "rating": 4.9,
-    "image": "/assets/app-dev.jpg",
+    "image": "/service-booking/assets/app-dev.jpg",
     "description": "Cross-platform mobile app development using React Native."
   },
   {
@@ -50,7 +50,7 @@
     "price": 60,
     "category": "Writing",
     "rating": 4.4,
-    "image": "/assets/content-writing.jpg",
+    "image": "/service-booking/assets/content-writing.jpg",
     "description": "SEO-friendly blog posts, website content, and product descriptions."
   }
 ]
