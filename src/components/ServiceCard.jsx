@@ -12,7 +12,9 @@ export default function ServiceCard({service}) {
       <p>${service.price}</p>
       <p>⭐ {service.rating}</p>
       <Link to={`/service/${service.id}`}>
-      <button>View Details</button>
+        <button className="bg-blue-600 hover:bg-blue-700 text-white font-medium px-4 py-2 rounded transition">
+          View Details
+        </button>
       </Link>
     </div>
   );

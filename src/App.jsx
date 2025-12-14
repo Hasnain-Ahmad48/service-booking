@@ -5,6 +5,7 @@ import Booking from "./pages/Booking";
 import Cart from "./pages/Cart";
 import CheckoutSuccess from "./pages/CheckoutSuccess";
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
 export default function App() {
   return (
@@ -32,6 +33,7 @@ export default function App() {
           element={<CheckoutSuccess />}
         />
       </Routes>
+      <Footer/>
     </BrowserRouter>
   );
 }
